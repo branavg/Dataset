@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<annotation>
+    <folder>images</folder>
+    <filename>local15.png</filename>
+    <size>
+        <width>515</width>
+        <height>770</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>hands</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>78</xmin>
+            <ymin>35</ymin>
+            <xmax>150</xmax>
+            <ymax>123</ymax>
+        </bndbox>
+        <bndbox>
+            <xmin>345</xmin>
+            <ymin>18</ymin>
+            <xmax>435</xmax>
+            <ymax>98</ymax>
+        </bndbox>    
+    </object>
+</annotation>

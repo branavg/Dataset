@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<annotation>
+    <folder>images</folder>
+    <filename>local26.png</filename>
+    <size>
+        <width>788</width>
+        <height>847</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>hands</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>129</xmin>
+            <ymin>93</ymin>
+            <xmax>325</xmax>
+            <ymax>270</ymax>
+        </bndbox>
+        <bndbox>
+            <xmin>459</xmin>
+            <ymin>131</ymin>
+            <xmax>647</xmax>
+            <ymax>277</ymax>
+        </bndbox>    
+    </object>
+</annotation>

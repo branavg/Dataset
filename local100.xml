@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<annotation>
+    <folder>images</folder>
+    <filename>local99.png</filename>
+    <size>
+        <width>576</width>
+        <height>390</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>hands</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin1>126</xmin1>
+            <ymin1>154</ymin1>
+            <xmax1>177</xmax1>
+            <ymax1>211</ymax1>
+            <xmin2>219</xmin2>
+            <ymin2>161</ymin2>
+            <xmax2>280</xmax2>
+            <ymax2>215</ymax2>
+
+        </bndbox>
+    </object>
+</annotation>
